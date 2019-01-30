@@ -9,7 +9,7 @@ public class Project2 {
 
     }
     public static void intro(){
-        System.out.println("well");
+        System.out.println("welcome");
     }
     
 }
